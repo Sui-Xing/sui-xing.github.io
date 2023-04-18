@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAGE-TITLE"
-permalink: /URL-PATH
+permalink: /Main
 ---
 
 欢迎您来到Sui的githubPage
